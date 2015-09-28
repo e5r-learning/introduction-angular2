@@ -1,0 +1,24 @@
+{
+  "name": "introduction-angular2",
+  "version": "1.0.0",
+  "description": "https://erlimar.wordpress.com/2015/09/24/uma-introducao-mais-elaborada-ao-angular-2-0/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e5r-learning/introduction-angular2.git"
+  },
+  "author": "Erlimar Silva Campos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e5r-learning/introduction-angular2/issues"
+  },
+  "homepage": "https://github.com/e5r-learning/introduction-angular2#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.9.0"
+  },
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.37",
+    "systemjs": "^0.19.3",
+    "traceur": "0.0.91"
+  }
+}
