@@ -14,7 +14,8 @@
   "homepage": "https://github.com/e5r-learning/introduction-angular2#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-typescript": "^2.9.0"
+    "gulp-typescript": "^2.9.0",
+    "serve-static": "^1.10.0"
   },
   "dependencies": {
     "angular2": "^2.0.0-alpha.37",
